@@ -59,6 +59,7 @@ html {
     font-size: 16px;
     font-weight: 600;
     letter-spacing: 0.6px;
+    outline:none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
@@ -102,5 +103,6 @@ html {
     #right-btn {
         right: 1px;
     }
+
 
 }
